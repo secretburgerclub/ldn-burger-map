@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brioche",
+        "description": "We recommend the Buttermilk Fried Chicken.",
+        "marker-symbol": "",
+        "marker-color": "#b03a02",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1201951503753662,
+          51.511677159034974
+        ]
+      }
+    }
+  ]
+}
